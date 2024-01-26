@@ -1,0 +1,8 @@
+site_name: "testappjdl"
+site_description: "This is a test description."
+
+nav:
+- Introduction: index.md
+
+plugins:
+- techdocs-core

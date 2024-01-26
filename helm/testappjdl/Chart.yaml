@@ -1,0 +1,7 @@
+apiVersion: v2
+name: testappjdl
+description: >-
+  This is the Helm chart for application testappjdl.
+type: application
+kubeVersion: ">=1.23-0"
+version: 1.0.0
